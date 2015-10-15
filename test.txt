@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 version3
+=======
+version1
+>>>>>>> parent of 6150b8a... v2
